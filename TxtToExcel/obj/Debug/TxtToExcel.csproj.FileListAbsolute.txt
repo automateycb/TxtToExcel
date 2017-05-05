@@ -1,0 +1,7 @@
+E:\git\TxtToExcel\TxtToExcel\bin\Debug\TxtToExcel.exe
+E:\git\TxtToExcel\TxtToExcel\bin\Debug\TxtToExcel.pdb
+E:\git\TxtToExcel\TxtToExcel\obj\Debug\ResolveAssemblyReference.cache
+E:\git\TxtToExcel\TxtToExcel\obj\Debug\TxtToExcel.Properties.Resources.resources
+E:\git\TxtToExcel\TxtToExcel\obj\Debug\TxtToExcel.csproj.GenerateResource.Cache
+E:\git\TxtToExcel\TxtToExcel\obj\Debug\TxtToExcel.exe
+E:\git\TxtToExcel\TxtToExcel\obj\Debug\TxtToExcel.pdb
